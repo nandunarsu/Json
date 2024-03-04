@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/rykLWh3rje7woRM5qMsS8yYWOYMBjc47AiPVng02beVe+nPT2mrhhXzH4+ioXoRGE7DKBSlGyuDbRAty5b++g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NANDINI\\source\\repos\\JsonDemo\\JsonDemo\\JsonDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NANDINI\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
